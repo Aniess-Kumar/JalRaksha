@@ -1,0 +1,7 @@
+{
+  "name": "JALRAKSHA",
+  "description": "AI and Earth Observation Based Post-Flood WASH Emergency Decision Support System for mapping water, sanitation and hygiene disruptions and prioritizing humanitarian intervention.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
